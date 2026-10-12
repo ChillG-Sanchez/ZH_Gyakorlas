@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\bin\Debug\net8.0\zhgyak.exe
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\bin\Debug\net8.0\zhgyak.deps.json
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\bin\Debug\net8.0\zhgyak.runtimeconfig.json
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\bin\Debug\net8.0\zhgyak.dll
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\bin\Debug\net8.0\zhgyak.pdb
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\zhgyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\zhgyak.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\zhgyak.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\zhgyak.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\zhgyak.dll
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\refint\zhgyak.dll
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\zhgyak.pdb
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\zhgyak.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\OE\PMP_GYAK_KOZOS\fajlbeolvasas\fajlbeolvasas3\zhgyak\obj\Debug\net8.0\ref\zhgyak.dll
